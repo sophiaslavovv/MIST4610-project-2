@@ -1,3 +1,5 @@
+Group 1:
+
 Shana Sah (https://github.com/shana-sah/SQL-Project-1-)
 
 Maya Patel (https://github.com/mayapatel47488/SQL-Project-1-)

@@ -8,7 +8,7 @@ Sophia Slavov
 
 Cade Mayfield (https://github.com/CaMay99/MIST4610-project-2)
 
-Chris Vitucci 
+Chris Vitucci (https://github.com/chrisvitucci/MIST4610-project-2) 
 
 -----------------------------------------------------------------------------------------------------------
 Data Set Description:
@@ -25,17 +25,12 @@ Why is it interesting/important:
 Understanding the relationship between English proficiency levels and the likelihood of receiving a school-related arrest can further help inform educators or the public about potential disciplinary disparities between English Language Learners and their English-proficient peers. Since ELL students often come from culturally diverse backgrounds, examining how English proficiency levels relate to disciplinary actions may alleviate challenges faced by these students if a correlation that negatively affects ELL students exists. The findings of this analysis can inform the development of practices that positively impact or benefit students.
 There were 3,142 English Language Learners out of the 51,780 student arrests in 2015-2016. There is a large range in the percentage of English learners, as arrests per state vary from 0% of English learners to 50%. What is the difference in ratios between states, and what is causing this wide variety? Texas has the highest number of arrests for English learners with 946, which makes up 12.3% of their school-related arrests.
 
-
-![project 2 chart 3 new](https://github.com/mayapatel47488/MIST4610-project-2/assets/166044940/2dab5ce6-7d98-44d9-80d4-96c3256a9889)
-
+![project 2 newest chart](https://github.com/mayapatel47488/MIST4610-project-2/assets/166044940/d6760a8f-4817-4696-a520-1139cbd6ec60)
 
 
 
-
-
-
-
-
+By visualizing the percentage of ELL students among the total student population in each state in a map, we were able to observe the geographic distribution of ELL students across the United States. States with higher percentages of ELL students appear more prominent on the map, indicating a higher concentration of ELL students.
+The visualization of the percentage of English Language Learner (ELL) students among the total student population across states offers information about ELL students in specific parts of the United States. States with higher percentages of ELL students are visually prominent on the map, indicating a concentration of this demographic group in certain regions. However, outliers and anomalies exist within the data. Alaska, for instance, stands out due to its high percentage of ELL student arrests, which is notably 50%. Upon closer examination, it becomes apparent that this high percentage is a result of a small number of arrests (only 2) in relation to the relatively low student population in the state. Furthermore, identifying states with the highest rates of ELL student arrests, such as Colorado, California, and Georgia, demonstrates the need for support programs and disciplinary procedures in these regions. For this graph, the data was manipulated by creating a field for the percentage of ELL arrests by state. To achieve this, the number of ELL arrests was divided by the total number of student arrests.  Understanding the underlying factors contributing to these high rates, such as language barriers, cultural differences, and inadequate services is essential for developing effective policies and practices aimed at reducing crime among ELL students.
 
 -----------------------------------------------------------------------------------------------------------
 
@@ -62,20 +57,10 @@ source:
 Churchill, A. (2023, January 26). Ohio’s new school funding formula: An introduction. The Thomas B. Fordham Institute. https://fordhaminstitute.org/ohio/commentary/ohios-new-school-funding-formula-introduction
 
 
-
-
-
-
-
-
-
-
-
-
 -----------------------------------------------------------------------------------------------------------
 Data Manipulation:
 -------------------
-There were a few things we had to manipulate in the data to give us the right outcomes. In order to calculate the most accurate pieces of information, we took out percentages when gathering all the data. Another manipulation we made was that we removed columns that didn't pertain to our phenomenon. We primarily focused on English Language Learners and the correlation between English proficiency levels and the probability of being subject to a school-related arrest, and two states with a similar population size having differences in school-related incarcerations. We focused on standardizing all the data so that it would be used in the most efficient way to analyze it. All the data we chose is quantifiable and interpretable with no redundancy. Having any inaccuracies could alter our analysis and lead to false observations. Our data entries were consistent with the information from the data analysis.
+There were a few things we had to manipulate in the data to give us the right outcomes. In order to calculate the most accurate pieces of information, we took out percentages when gathering all the data. Another manipulation we made was that we removed columns that didn't pertain to our phenomenon. We primarily focused on English Language Learners and the correlation between English proficiency levels and the probability of being subject to a school-related arrest, and two states with a similar population size having differences in school-related incarcerations. For question 1, the data was manipulated by creating a field for the percentage of ELL arrests by state. To achieve this, the number of ELL arrests was divided by the total number of student arrests. Understanding the underlying factors contributing to these high rates, such as language barriers, cultural differences, and inadequate services is essential for developing effective policies and practices aimed at reducing crime among ELL students. We focused on standardizing all the data so that it would be used in the most efficient way to analyze it. All the data we chose is quantifiable and interpretable with no redundancy. Having any inaccuracies could alter our analysis and lead to false observations. Our data entries were consistent with the information from the data analysis.
 
 
 -----------------------------------------------------------------------------------------------------------
